@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283532621123",
+    "project_id": "paisa-d564d",
+    "storage_bucket": "paisa-d564d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283532621123:android:5a0684e487f0dc7cf66bf6",
+        "android_client_info": {
+          "package_name": "com.example.paisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283532621123-he9o4dnu2ad609cerkcvht8r56c7gm08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paisa",
+            "certificate_hash": "fee1463c4e1dbd1d152b6dfc2b7e83a15d80d520"
+          }
+        },
+        {
+          "client_id": "283532621123-un98qtagj9ktn4ba4ekrhg41kjk958fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAU0aWU76oR2OQ0h86BCLuyCwN5xf3J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283532621123-un98qtagj9ktn4ba4ekrhg41kjk958fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
